@@ -34,6 +34,8 @@ During development, we discovered a strong **Negative Correlation (-0.47)** betw
 To run this analyzer locally:
 1. `pip install -r requirements.txt`
 2. `streamlit run anomaly_diagnostic_app.py`
+<img width="1918" height="894" alt="Screenshot_2026_01_16-13" src="https://github.com/user-attachments/assets/3ebe44c3-f405-42b5-ae4a-3af207579fc2" />
+<img width="1920" height="898" alt="Screenshot_2026_01_16-14" src="https://github.com/user-attachments/assets/7dca420f-9209-4b80-a30a-0fc4d1b85c70" />
 
 ---
 *Empowering the Digital Oilfield through Intelligence. Developed by **Eng. Sulaiman Kudaimi**.*
